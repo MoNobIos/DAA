@@ -3,8 +3,10 @@
 #include<math.h>
 #include <ctime>
 #include <stdio.h>
-//test
+
 #define INFINITY 1000000
+
+//try push
 
 class Point {
 public :
