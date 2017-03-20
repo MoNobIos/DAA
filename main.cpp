@@ -117,7 +117,7 @@ float closestPairOfPoints(Point p[],int n) {
 }
 
 
-#define BF
+//#define BF
 
 const long nPoint = 50000;
 const long max = 100000;
